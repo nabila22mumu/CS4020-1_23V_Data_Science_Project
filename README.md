@@ -1,6 +1,6 @@
 # Project Overview
 
-This is our final project for CS4020-1 23V Data Science course. We'll try to predict the match result of football matches in the English Premier League based on training machine learning model with 20-21 season data of premier league teams.  
+This is our final project for CS4020-1 23V Data Science course. We'll try to predict the match result of football matches in the English Premier League based on training machine learning model with 20-21,21-22 season data of premier league teams.  
 
 **Project Steps**
  
