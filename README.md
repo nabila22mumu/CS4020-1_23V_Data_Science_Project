@@ -1,16 +1,21 @@
 # Project Overview
 
-In this project, we'll predict the winner of football matches in the English Premier League (EPL).  
+This is our final project for CS4020-1 23V Data Science course. We'll try to predict the match result of football matches in the English Premier League based on training machine learning model with 20-21 season data of premier league teams.  
 
 **Project Steps**
  
-* Clean the data and get it ready for machine learning using pandas.
-* Make predictions about who will win a match using scikit-learn.
+* Data cleaning using pandas.
+* Make predictions about about match result using scikit-learn.
 * Measure error and improve our predictions.
 
+
+## Group Members
+
+[Ferdous Jahan](ferdousjahan2@gmail.com)
+[Nabila Tabassum](nabilatabassum147@gmail.com)
 ## Code
 
-You can find the code for this project [here]().
+You can find the code for this project [here](https://github.com/Ferdous-Jahan/CS4020-1_23V_Data_Science_Project).
 
 File overview:
 
